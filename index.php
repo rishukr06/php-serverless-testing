@@ -7,7 +7,7 @@ echo "Hello World!"
 ?>
 <br/>
 
-// navigation
+<!-- navigation -->
 
 <a href="./pages/page1.php"> Go To Page 1 </a>
 
